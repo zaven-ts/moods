@@ -10,19 +10,19 @@ Author: Zaven Ter-Stepanyan
 •	Used jQuery, Bootstrap
 
 
-Configurations
+-- Configurations --
 
 FileDir  –  config/config.php
 
-Db schema
+-- Db schema --
 
 moodmaster.sql (included in zip file)
 
-Link to project running on Linux server
+-- Link to project running on Linux server --
 
 http://zaventest.coderiders.am/
 
-Auth
+-- Auth --
 
 Login: zstep  | Pass: 111  |  role: admin
 
