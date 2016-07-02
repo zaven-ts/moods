@@ -21,6 +21,7 @@ http://zaventest.coderiders.am/
 
 Auth
 Login: zstep  | Pass: 111  |  role: admin
+
 Login: guest  | Pass: 111  |  role: user
 
 
