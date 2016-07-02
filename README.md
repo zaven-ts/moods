@@ -11,15 +11,19 @@ Author: Zaven Ter-Stepanyan
 
 
 Configurations
+
 FileDir  –  config/config.php
 
 Db schema
+
 moodmaster.sql (included in zip file)
 
 Link to project running on Linux server
+
 http://zaventest.coderiders.am/
 
 Auth
+
 Login: zstep  | Pass: 111  |  role: admin
 
 Login: guest  | Pass: 111  |  role: user
