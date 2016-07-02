@@ -16,7 +16,7 @@ FileDir  –  config/config.php
 
 -- Db schema --
 
-moodmaster.sql (included in zip file)
+moodmaster.sql
 
 -- Link to project running on Linux server --
 
