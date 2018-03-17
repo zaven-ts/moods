@@ -20,7 +20,7 @@ moodmaster.sql
 
 -- Link to project running on Linux server --
 
-http://zaventest.coderiders.am/
+
 
 -- Auth --
 
