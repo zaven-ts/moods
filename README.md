@@ -18,15 +18,6 @@ FileDir  –  config/config.php
 
 moodmaster.sql
 
-/*-- Link to project running on Linux server --
-
-
-
-/*-- Auth --
-
-/*Login: zstep  | Pass: 111  |  role: admin
-
-/*Login: guest  | Pass: 111  |  role: user 
 
 
  
